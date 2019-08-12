@@ -1,0 +1,184 @@
+networking timeouts
+TCP_NODELAY
+SO_TIMEOUT
+ImageObserver
+server threads
+multiple connections
+high latency
+queue
+Compression
+applet
+multiple connections
+Transport objects
+JavaMail
+IMAP
+collections
+i/o streams
+blocking
+Database access
+connection pool
+database connections
+cache
+JDBC
+ResultSet
+CPU
+memory management
+garbage collection
+statistic
+monitor to determine the server's "health". Use the verbosegc flag to collect basic GC statistics. 
+GC
+memory leaks
+memory
+hotspot
+memory footprint
+footprint
+Run an application server and any database servers on separate server machines. 
+JVM heap size
+mx
+ms
+mn
+application server
+scaling
+validate
+downtime
+availability
+transparent fail-over
+clustering
+load balancing
+-server
+HttpSessions
+cluster
+J2EE
+JNDI
+SQL
+stored procedures
+triggers
+reflection
+-XX:+UseLWPSynchronization
+IP
+Servlet Filter
+NIO
+RMI
+Profile
+NamingService
+round trip
+round-trip
+home
+ECperf
+exception
+throw
+throws
+synchronization
+Connectorion
+latency
+Session Facade pattern
+load-balancing
+hit rates
+constant service time
+conversions
+final
+public
+static
+inner class
+StringBuffer
+StringBuilder
+Socket
+XML
+SAX
+DOM
+indexing
+ArrayList
+HashMap
+HashTable
+benchmark
+memory management
+Scale horizontally
+Value Objects
+Capacity planning
+SSL
+Pooling
+JMS
+Cookie
+authentication
+validation
+high availability
+Round robin
+RoundRobin
+DNS
+disk data
+disk I/O
+Asynchronous
+context switching
+multi-threading
+Request dispatching
+NIO
+Memory mapped
+graphics
+String
+parallel
+browser
+validation
+Message driven beans
+Message-driven beans
+SOAP
+vertical scaling
+http
+container
+high availability
+clustered
+data transfers
+Web Service
+network
+marshalling
+serialization
+serialize
+topology
+Stress test tools
+System monitoring tools
+perfmon
+sar
+iostat
+vmstat
+latencies
+saturation
+transactions
+beans
+queue
+Load test
+concurrent users
+failed requests
+performance metrics
+Statistics
+session timeout
+JMS
+thread pool
+context-switching
+heap
+concurrent garbage collector
+Console output
+-XX:CompileThreshold
+Logging
+Paging
+swapping
+File system
+browser
+load balancer
+web server
+servlet
+jsp
+ejb
+Presentation Layer
+Struts
+proxies
+decoupling
+flexibility
+Stateless
+Session Beans
+Facade
+Delegate
+service beans
+Data Access Layer
+Connection pools 
+Object/Relational Mapping
+state
+server affinity

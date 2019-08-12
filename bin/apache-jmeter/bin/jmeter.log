@@ -1,0 +1,38 @@
+2019-01-06 18:50:01,674 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-01-06 18:50:01,706 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-01-06 18:50:01,706 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: java.version=9.0.1
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: os.arch=x86_64
+2019-01-06 18:50:01,713 INFO o.a.j.JMeter: os.version=10.14
+2019-01-06 18:50:01,714 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-01-06 18:50:01,714 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-01-06 18:50:01,714 INFO o.a.j.JMeter: Available Processors =8
+2019-01-06 18:50:01,723 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-01-06 18:50:01,723 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-01-06 18:50:01,723 INFO o.a.j.JMeter: JMeterHome=/Users/kirk/JavaPerformanceTuning/Workshops/ml/jptwml/bin/apache-jmeter
+2019-01-06 18:50:01,723 INFO o.a.j.JMeter: user.dir  =/Users/kirk/JavaPerformanceTuning/Workshops/ml/jptwml/bin/apache-jmeter/bin
+2019-01-06 18:50:01,723 INFO o.a.j.JMeter: PWD       =/Users/kirk/JavaPerformanceTuning/Workshops/ml/jptwml/bin/apache-jmeter/bin
+2019-01-06 18:50:01,725 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: box.local FullName: localhost
+2019-01-06 18:50:03,698 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-01-06 18:50:03,705 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-01-06 18:50:03,706 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-01-06 18:50:03,786 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-01-06 18:50:04,193 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-01-06 18:50:04,194 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-01-06 18:50:05,976 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-06 18:50:05,977 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-06 18:50:05,977 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-06 18:50:05,977 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-01-06 18:50:05,977 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-01-06 18:50:05,978 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-01-06 18:50:06,381 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-01-06 18:50:06,382 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/kirk/JavaPerformanceTuning/Workshops/ml/jptwml/bin/apache-jmeter/bin/proxyserver.jks
+2019-01-06 18:50:06,567 INFO o.a.j.s.FileServer: Default base='/Users/kirk/JavaPerformanceTuning/Workshops/ml/jptwml/bin/apache-jmeter/bin'
+2019-01-06 18:50:06,872 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-01-06 18:50:06,873 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-01-06 18:50:06,873 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-01-06 18:50:06,873 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000

@@ -1,0 +1,52 @@
+body {
+        font-family: arial,helvetica,verdana,sans-serif;
+        font-size: 10px;
+        overflow-x: hidden;
+}
+h1 {
+        font-size: 180%
+}
+h2 {
+         font-size: 120%
+}
+h3 {
+         font-size: 105%
+}
+
+
+
+table {
+        border-width: 0px;
+        border-spacing: 0px ;
+        border-style: solid;
+        border-color: gray;
+        border-collapse: collapse;
+        font-size: 10px;
+        empty-cells: hide;
+}
+
+td {
+        border-width: 0px;
+        padding: 3px;
+        border-style: solid;
+        border-color: gray;
+        font-size: 10px;
+        text-align: left;
+}
+
+
+tr.true td {
+	background-color: #CCCCFF; color: black;
+       border-width: 0px;
+}
+tr.false td {
+	background-color: #white; color: black;
+       border-width: 0px;
+}
+
+td.header {
+           text-align: center;
+           font-weight: 400;
+
+
+}
